@@ -2,7 +2,9 @@
 
 ### Installation
 
-    composer require dandisy/webcore-menu
+    composer require dandisy/webcore-menu:dev-master
+
+    php artisan vendor:publish --provider="Harimayco\Menu\MenuServiceProvider"
 
 
 
