@@ -1,5 +1,9 @@
 ## Webcore Menu management
 
+### Installation
+
+    composer require dandisy/webcore-menu
+
 ### Dependency
 
     * harimayco/laravel-menu
