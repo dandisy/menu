@@ -9,6 +9,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
+        "atayahmet/laravel-nestable": "^0.8.1",
         "harimayco/laravel-menu": "^1.2"
     },
     "extra": {
