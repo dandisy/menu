@@ -12,6 +12,11 @@
         "atayahmet/laravel-nestable": "^0.8.1",
         "harimayco/laravel-menu": "^1.2"
     },
+    "autoload": {
+        "psr-4": {
+            "Webcore\\Menu\\": "src/"
+        }
+    },
     "extra": {
         "laravel": {
             "providers": [
