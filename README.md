@@ -6,6 +6,8 @@
 
     php artisan vendor:publish --provider="Harimayco\Menu\MenuServiceProvider"
 
+    php artisan vendor:publish --provider="Webcore\Menu\MenuServiceProvider" --tag=models
+
 
 
 ### Dependency

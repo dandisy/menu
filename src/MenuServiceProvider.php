@@ -20,6 +20,10 @@ class MenuServiceProvider extends ServiceProvider
         $this->publishes([
             __DIR__.'/views' => resource_path('views/vendor/webcore/menu'),
         ], 'views');
+
+        $this->publishes([
+            __DIR__.'/models' => app_path('Models'),
+        ], 'models');
     }
 
     /**
