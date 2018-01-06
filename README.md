@@ -1,5 +1,7 @@
 ## Webcore Menu management
 
+For https://github.com/dandisy/webcore
+
 ### Installation
 
     composer require dandisy/webcore-menu:dev-master
